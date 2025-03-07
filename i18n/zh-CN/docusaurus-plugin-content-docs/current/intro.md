@@ -26,10 +26,6 @@ GoGoLLM是开发者优先的面向企业级LLM应用研发平台, 专注于提�
 
 ![智能租房搜索](./intro_imgs/ai_search_house_demo_2.png)
 
-### 1.2 智能搜塑
-> 此demo基于企业内部业务场景，智能搜索塑料原料产品。
-
-![智能语义化搜索](./intro_imgs/ai_sousu.gif)
 
 ### 2. 角色扮演对话——苏苏
 
