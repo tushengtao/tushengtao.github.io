@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 2025年GoGoLLM最新迭代
+# 2025GoGoLLM最新迭代
 
 ![GoGoLLM最新登录页](./intro_imgs/2025_gogollm_login.png)
 
