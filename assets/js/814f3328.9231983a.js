@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgogollm_website=self.webpackChunkgogollm_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u6700\u65b0\u535a\u5ba2","items":[{"title":"\u6b22\u8fce\u60a8","permalink":"/blog/welcome","unlisted":false}]}')}}]);
